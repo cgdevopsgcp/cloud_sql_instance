@@ -1,7 +1,7 @@
 variable "project_id" {
     description = "Project ID where the resources will be provisioned"
     type        = string
-    default     = ""
+    default     = "hackathon-project-six"
 }
 
 variable "host_project_id" {
